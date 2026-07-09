@@ -204,9 +204,6 @@ rm ~/Library/LaunchAgents/com.ds2.gamemode.plist
 |------------------|----------------------------------|
 | **Hardware**     | Apple M2 Pro, 16 GB RAM          |
 | **macOS**        | 26.5.2 (Tahoe)                   |
-| **CrossOver**    | CXPatched 26.1p0.7.1 (wine 11.0) |
-| **DS2 Build**    | Steam, Build ID 23923251         |
-| **WiNE Version** | wine-11.0-8720-g4351038808c      |
 
 ---
 
