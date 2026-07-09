@@ -8,7 +8,7 @@ Run **Death Stranding 2** on Apple Silicon Mac via **CrossOver + CXPatcher**.
 
 ### 1. Patch CrossOver with CXPatcher
 
-Download [CXPatcher](https://github.com/zydezu/CXPatcher), point it at your CrossOver.app — it updates D3DMetal and
+Download [CXPatcher](https://github.com/italomandara/CXPatcher), point it at your CrossOver.app — it updates D3DMetal and
 other components.
 
 ### 2. Create bottle
@@ -213,14 +213,6 @@ rm ~/Library/LaunchAgents/com.ds2.gamemode.plist
 ## 📚 Resources
 
 - [DS2-Mac Patcher](https://github.com/davidakh/DS2-Mac) — Required compatibility patch
-- [CXPatcher](https://github.com/zydezu/CXPatcher) — CrossOver patcher for latest D3DMetal
+- [CXPatcher](https://github.com/italomandara/CXPatcher) — CrossOver patcher for latest D3DMetal
 - [CrossOver](https://www.codeweavers.com/crossover) — Compatibility layer
 - [AppleGamingWiki: DS2](https://www.applegamingwiki.com/wiki/DEATH_STRANDING_2:_ON_THE_BEACH)
-
----
-
-## 🙏 Credits
-
-- [davidakh](https://github.com/davidakh/DS2-Mac) — DS2 compatibility patcher
-- [CXPatcher](https://github.com/zydezu/CXPatcher) — CrossOver patcher
-- CrossOver team — Wine/D3DMetal
